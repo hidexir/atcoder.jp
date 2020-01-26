@@ -1,5 +1,5 @@
 import sys
-sys.setrecursionlimit(10000)
+sys.setrecursionlimit(20000)
 
 n = int(input())
 ans = 0
